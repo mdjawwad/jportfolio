@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/jportfolio/static/css/main.1bc0edb8.chunk.css",
+    "main.js": "/jportfolio/static/js/main.b4567cd6.chunk.js",
+    "main.js.map": "/jportfolio/static/js/main.b4567cd6.chunk.js.map",
+    "runtime-main.js": "/jportfolio/static/js/runtime-main.e39692b5.js",
+    "runtime-main.js.map": "/jportfolio/static/js/runtime-main.e39692b5.js.map",
+    "static/js/2.a17b5b66.chunk.js": "/jportfolio/static/js/2.a17b5b66.chunk.js",
+    "static/js/2.a17b5b66.chunk.js.map": "/jportfolio/static/js/2.a17b5b66.chunk.js.map",
+    "static/js/3.2228425c.chunk.js": "/jportfolio/static/js/3.2228425c.chunk.js",
+    "static/js/3.2228425c.chunk.js.map": "/jportfolio/static/js/3.2228425c.chunk.js.map",
+    "index.html": "/jportfolio/index.html",
+    "static/css/main.1bc0edb8.chunk.css.map": "/jportfolio/static/css/main.1bc0edb8.chunk.css.map",
+    "static/js/2.a17b5b66.chunk.js.LICENSE.txt": "/jportfolio/static/js/2.a17b5b66.chunk.js.LICENSE.txt",
+    "static/media/address.2d1a737b.png": "/jportfolio/static/media/address.2d1a737b.png",
+    "static/media/ai.6bf29890.png": "/jportfolio/static/media/ai.6bf29890.png",
+    "static/media/animation.0b1a5191.jpg": "/jportfolio/static/media/animation.0b1a5191.jpg",
+    "static/media/avatar.4aeec45c.jpg": "/jportfolio/static/media/avatar.4aeec45c.jpg",
+    "static/media/avatar2.27b9aa98.jpg": "/jportfolio/static/media/avatar2.27b9aa98.jpg",
+    "static/media/blog1.6dd2d17f.jpg": "/jportfolio/static/media/blog1.6dd2d17f.jpg",
+    "static/media/email.20cc84d2.png": "/jportfolio/static/media/email.20cc84d2.png",
+    "static/media/logo.dbee8a6a.jpg": "/jportfolio/static/media/logo.dbee8a6a.jpg",
+    "static/media/react.6c5dad68.jpg": "/jportfolio/static/media/react.6c5dad68.jpg",
+    "static/media/telephone.c056fa68.png": "/jportfolio/static/media/telephone.c056fa68.png",
+    "static/media/video-game-controller.17ff3df7.png": "/jportfolio/static/media/video-game-controller.17ff3df7.png",
+    "static/media/vs code.e24bf3cb.jpg": "/jportfolio/static/media/vs code.e24bf3cb.jpg",
+    "static/media/web design.ad5c24f7.jpg": "/jportfolio/static/media/web design.ad5c24f7.jpg",
+    "static/media/web development.0ea4fde7.jpg": "/jportfolio/static/media/web development.0ea4fde7.jpg",
+    "static/media/web-design.ff949ecb.png": "/jportfolio/static/media/web-design.ff949ecb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e39692b5.js",
+    "static/js/2.a17b5b66.chunk.js",
+    "static/css/main.1bc0edb8.chunk.css",
+    "static/js/main.b4567cd6.chunk.js"
+  ]
+}
