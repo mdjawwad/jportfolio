@@ -1,0 +1,72 @@
+@import "./style/layout.scss";
+@import "./style/about";
+@import "./style/-navbar.scss";
+@import "./style/typography.scss";
+@import "./style/titel";
+@import "./style/skill";
+@import "./style/portfoilos";
+@import "./style/service";
+@import "./style/blog";
+@import "./style/contact";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body::-webkit-scrollbar {
+  width: 7px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #3500d359;
+  border-radius: 50px;
+  border: none;
+  transition: all 0.5s ease-in-out;
+  display: inline-block;
+  &:hover {
+    background-color: #3500d3d5;
+  }
+}
+
+body::-webkit-scrollbar-track {
+  background-color: rgba(217, 245, 255, 0.781);
+}
+
+body {
+  color: #d9f5ff;
+  font-size: 1.2rem;
+  font-family: "Josefin Sans", sans-serif;
+}
+span {
+  color: #3500d3;
+}
+
+
+@media screen and (max-width:1000px) {
+  html{
+    font-size: 95%;
+  }
+}
+  @media screen and (max-width: 811px) {
+    html{
+      font-size: 90%;
+    }
+  }
+    @media screen and (max-width: 711px) {
+      html{
+        font-size: 85%;
+      }
+    }
+      @media screen and (max-width: 411px) {
+        html{
+          
+          font-size: 80%;
+        }
+      }
+        
+        @media screen and (max-width: 311px) {
+          html{
+            font-size: 75%;
+          }
+  
+        }

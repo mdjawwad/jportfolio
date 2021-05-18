@@ -1,0 +1,86 @@
+.App {
+  .sidebar {
+    width: 16%;
+    height: 100vh;
+    background-color: #0c0032;
+    position: fixed;
+    z-index:11 ;
+    transform-origin: left ;
+    border-right: 1px solid #190016;
+    @media screen and (max-width: 1000px) {
+      transform: translateX(-100%);
+    transition: all .4s ease-in-out;
+    width: 25%;
+      
+    }
+    @media screen and (max-width: 411px) {
+     width: 50%;
+    transition: all .4s ease-in-out;
+
+      
+    }
+  }
+.nav-toggle{
+  @media screen and (max-width: 1000px) {
+    transform: translateX(0);
+    transition: all .4s ease-in-out;
+ 
+    
+  }
+ 
+}
+  .main-contect {
+    width: 84%;
+    margin-left: 16%;
+    background-color: #10121b;
+    min-height: 100vh;
+    background-size: cover; 
+     background-repeat: no-repeat;
+     overflow: hidden;
+    position: relative;
+    display: grid; 
+  .content{
+    margin: 4rem 6rem;
+  
+  }
+  @media screen and (max-width: 1000px) {
+    margin: 0 !important;
+  width: 100%;
+       
+}
+
+  }
+
+}
+ 
+  
+
+.nav-btn{
+  display: none;
+  position: absolute;
+  width: 3rem;
+  height: 4rem;
+  top: 10%;
+  right: 10%;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  .lines-1, .lines-2, .lines-3{
+    height: .3rem;
+    width: 80%;
+    pointer-events: none;
+    display: none;
+    border-radius: 10px;
+    background-color: #3500d3;
+&:not(:last-child){
+margin-bottom: .5rem;
+}
+  }
+  @media screen and (max-width: 1000px) {
+    display: block;
+    .lines-1, .lines-2, .lines-3{
+      display: block;
+    }
+  }
+
+}
